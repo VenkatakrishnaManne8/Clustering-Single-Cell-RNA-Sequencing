@@ -9,7 +9,7 @@ Extract the zip file's contents to a directory on your local machine.
 Clone the code using Git:
 
 Open a terminal or command prompt on your machine.
-Run the command: git clone https://github.com/priyatham1188/Dmml-Project.git
+Run the command: git clone https://github.com/VenkatakrishnaManne8/Clustering-Single-Cell-RNA-Sequencing.git
 Once you have the code on your machine, follow the specific instructions based on the code editor you are using:
 
 For Visual Studio Code (VScode):
